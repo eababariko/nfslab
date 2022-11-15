@@ -1,5 +1,3 @@
-[CLIENT]
-
 #!/bin/bash
 sudo -i
 sed -i 's/mirrorlist/#mirrorlist/g' /etc/yum.repos.d/CentOS-*
