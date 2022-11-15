@@ -1,5 +1,3 @@
-[SERVERV3]
-
 #!/bin/bash
 sudo -i
 systemctl stop firewalld
